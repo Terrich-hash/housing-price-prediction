@@ -43,22 +43,5 @@ This project predicts housing prices using a dataset containing demographic, geo
 
 ---
 
-## 📁 Project Structure
-.
-├── data/
-│ ├── train.csv # Training dataset
-│ └── test.csv # Test dataset
-├── notebooks/
-│ └── analysis.ipynb # EDA & model-building
-├── src/
-│ ├── data.py # Data loading & preprocessing
-│ ├── features.py # Feature engineering
-│ ├── model.py # Model training & saving
-│ └── evaluate.py # Metrics and validation
-├── app/ # (Optional) Flask API
-│ ├── main.py
-│ └── service.py
-├── requirements.txt
-└── README.md
 
 
